@@ -101,7 +101,7 @@ AntWork는 롯데 그룹의 사내 협업 플랫폼을 현대화하고, 실무 �
 ---
 
 ## 🎥 기능 시연
-[시연 영상 바로가기](https://youtu.be/3lCmbhZeRjE)
+[시연 영상 바로가기](https://www.youtube.com/watch?v=awnQofAVuoo)
 
 ---
 
