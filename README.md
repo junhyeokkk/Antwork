@@ -30,13 +30,13 @@ AntWork는 롯데 그룹의 사내 협업 플랫폼을 현대화하고, 실무 �
 - **Jest**: UI/UX 테스트.
 
 ### **Backend**
-- **Node.js**: 비동기 이벤트 기반 서버.
-- **Express**: RESTful API 설계.
+- **SpringBoot**: 비동기 이벤트 기반 서버.
+- **MySQL**: 관계형 데이터 저장소.
 - **MongoDB**: NoSQL 데이터 저장소.
-- **Mongoose**: 데이터베이스 스키마 설계.
+- **Redis:**: 캐싱 및 세션 관리.
 - **JWT**: 사용자 인증 및 세션 관리.
-- **Socket.IO**: 실시간 통신 (채팅, 알림).
-- **PM2**: 프로덕션 서버 프로세스 관리.
+- **Stomp**: WebSocket 기반의 실시간 통신.
+- **JWT**: 사용자 인증 및 세션 관리.
 
 ### **DevOps & Tools**
 - **GitHub Actions**: CI/CD 파이프라인 자동화.
