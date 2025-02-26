@@ -23,11 +23,9 @@ AntWork는 롯데 그룹의 사내 협업 플랫폼을 현대화하고, 실무 �
 ### **Frontend**
 - **React**: 사용자 인터페이스 개발.
 - **TypeScript**: 코드 안정성과 유지보수성 향상.
-- **TailwindCSS**: 빠른 개발과 일관된 스타일링.
-- **Redux Toolkit**: 상태 관리.
+- **TailwindCSS & Sass**: 빠른 개발과 일관된 스타일링.
+- **Zustand**: 상태 관리.
 - **Axios**: 효율적인 API 요청 처리.
-- **React Query**: 서버 상태 관리 및 데이터 캐싱.
-- **Jest**: UI/UX 테스트.
 
 ### **Backend**
 - **SpringBoot**: 비동기 이벤트 기반 서버.
